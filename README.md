@@ -5,7 +5,7 @@ FYP Project - Server using Node JS
 ---
 ## Requirements
 
-For development, you will only need Node.js and a node global package, npm, installed in your environement.
+For development, you will need Node.js and a node global package, npm, and mysql server installed in your environement.
 
 ### Node
 - #### Node installation on Windows
